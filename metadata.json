@@ -1,0 +1,12 @@
+{
+  "name": "TOLKFLOW - Next-Gen Communication Platform",
+  "description": "Next generation communication and social networking platform. Connect Beyond Conversations with real-time encrypted messaging, HD voice/video calls, international social media posting, global discovery, Smart AI assistance, and Message Vault.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

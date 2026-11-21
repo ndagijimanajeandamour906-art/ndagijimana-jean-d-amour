@@ -1,0 +1,547 @@
+{
+  "conversations": [
+    {
+      "id": "conv_damour_rw",
+      "type": "direct",
+      "name": "Jean Damour (Rwanda 🇷🇼)",
+      "avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&auto=format&fit=crop&q=80",
+      "participantIds": [
+        "user_alex",
+        "user_damour"
+      ],
+      "participants": [
+        {
+          "id": "user_alex",
+          "name": "Alex Vance",
+          "username": "alex_vance",
+          "email": "alex.vance@tolkflow.io",
+          "phone": "+1 (555) 019-2834",
+          "country": "United States",
+          "preferredLanguage": "en",
+          "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&auto=format&fit=crop&q=80",
+          "bio": "Lead Platform Architect & Super Administrator at TOLKFLOW. Building real-time multilingual communication.",
+          "status": "online",
+          "statusText": "Connecting global nodes 🌐",
+          "verified": true,
+          "role": "superadmin",
+          "interests": [
+            "Distributed Systems",
+            "Cryptography",
+            "WebRTC",
+            "Quantum AI"
+          ],
+          "followersCount": 1420,
+          "followingCount": 380,
+          "twoFactorEnabled": true,
+          "createdAt": "2025-01-15T10:00:00Z"
+        },
+        {
+          "id": "user_damour",
+          "name": "Jean Damour Ndagijimana",
+          "username": "damour_rw",
+          "email": "ndagijimanajeandamour906@gmail.com",
+          "phone": "+250 788 123 456",
+          "country": "Rwanda",
+          "preferredLanguage": "rw",
+          "avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&auto=format&fit=crop&q=80",
+          "bio": "Platform Owner & Lead AI Architect based in Kigali, Rwanda. Advocating for global multilingual equality.",
+          "status": "online",
+          "statusText": "Umunsi mwiza kuri mwese 🇷🇼",
+          "verified": true,
+          "role": "superadmin",
+          "interests": [
+            "Kinyarwanda NLP",
+            "African Tech",
+            "Fintech",
+            "Distributed Mesh"
+          ],
+          "followersCount": 4210,
+          "followingCount": 620,
+          "twoFactorEnabled": true,
+          "createdAt": "2025-02-01T12:00:00Z"
+        }
+      ],
+      "unreadCount": 1,
+      "isPinned": true,
+      "isEncrypted": true,
+      "autoTranslate": true,
+      "createdAt": "2026-03-01T10:00:00Z",
+      "description": "Auto-Translating between Kinyarwanda & English / Chinese",
+      "lastMessage": {
+        "id": "msg_d_1",
+        "conversationId": "conv_damour_rw",
+        "senderId": "user_damour",
+        "senderName": "Jean Damour Ndagijimana",
+        "senderAvatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&auto=format&fit=crop&q=80",
+        "text": "Good morning, how are you?",
+        "originalText": "Mwaramutse neza, amakuru yawe?",
+        "translatedText": "Good morning, how are you?",
+        "detectedLanguage": "rw",
+        "targetLanguage": "en",
+        "showOriginal": false,
+        "timestamp": "10:42 AM",
+        "status": "delivered",
+        "type": "text",
+        "reactions": [
+          {
+            "emoji": "🇷🇼",
+            "count": 1,
+            "userIds": [
+              "user_alex"
+            ]
+          }
+        ],
+        "isPinned": true
+      }
+    },
+    {
+      "id": "conv_liwei_cn",
+      "type": "direct",
+      "name": "Li Wei (China 🇨🇳)",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&auto=format&fit=crop&q=80",
+      "participantIds": [
+        "user_alex",
+        "user_liwei"
+      ],
+      "participants": [
+        {
+          "id": "user_alex",
+          "name": "Alex Vance",
+          "username": "alex_vance",
+          "email": "alex.vance@tolkflow.io",
+          "phone": "+1 (555) 019-2834",
+          "country": "United States",
+          "preferredLanguage": "en",
+          "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&auto=format&fit=crop&q=80",
+          "bio": "Lead Platform Architect & Super Administrator at TOLKFLOW. Building real-time multilingual communication.",
+          "status": "online",
+          "statusText": "Connecting global nodes 🌐",
+          "verified": true,
+          "role": "superadmin",
+          "interests": [
+            "Distributed Systems",
+            "Cryptography",
+            "WebRTC",
+            "Quantum AI"
+          ],
+          "followersCount": 1420,
+          "followingCount": 380,
+          "twoFactorEnabled": true,
+          "createdAt": "2025-01-15T10:00:00Z"
+        },
+        {
+          "id": "user_liwei",
+          "name": "Li Wei",
+          "username": "li_wei_shanghai",
+          "email": "li.wei@shanghai-ai.cn",
+          "phone": "+86 138 0013 8000",
+          "country": "China",
+          "preferredLanguage": "zh-CN",
+          "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&auto=format&fit=crop&q=80",
+          "bio": "Distributed Systems & Transformer Inference specialist based in Shanghai, China.",
+          "status": "online",
+          "statusText": "你好世界！探索多语言通信 🇨🇳",
+          "verified": true,
+          "role": "user",
+          "interests": [
+            "Edge Computing",
+            "Large Language Models",
+            "Rust",
+            "Real-time Video"
+          ],
+          "followersCount": 3890,
+          "followingCount": 512,
+          "twoFactorEnabled": true,
+          "createdAt": "2025-02-10T14:30:00Z"
+        }
+      ],
+      "unreadCount": 0,
+      "isPinned": true,
+      "isEncrypted": true,
+      "autoTranslate": true,
+      "createdAt": "2026-03-01T09:00:00Z",
+      "lastMessage": {
+        "id": "msg_lw_1",
+        "conversationId": "conv_liwei_cn",
+        "senderId": "user_liwei",
+        "senderName": "Li Wei",
+        "senderAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&auto=format&fit=crop&q=80",
+        "text": "The edge latency benchmark in Shanghai was verified!",
+        "originalText": "上海节点的边缘延迟基准测试已经验证完成！",
+        "translatedText": "The edge latency benchmark in Shanghai was verified!",
+        "detectedLanguage": "zh-CN",
+        "targetLanguage": "en",
+        "showOriginal": false,
+        "timestamp": "09:30 AM",
+        "status": "read",
+        "type": "text",
+        "reactions": [
+          {
+            "emoji": "🚀",
+            "count": 2,
+            "userIds": [
+              "user_alex",
+              "user_liwei"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "conv_group_global",
+      "type": "group",
+      "name": "TOLKFLOW Global Multilingual Forum 🌍",
+      "avatar": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=400&auto=format&fit=crop&q=80",
+      "participantIds": [
+        "user_alex",
+        "user_damour",
+        "user_liwei",
+        "user_amina",
+        "user_elena"
+      ],
+      "participants": [
+        {
+          "id": "user_alex",
+          "name": "Alex Vance",
+          "username": "alex_vance",
+          "email": "alex.vance@tolkflow.io",
+          "phone": "+1 (555) 019-2834",
+          "country": "United States",
+          "preferredLanguage": "en",
+          "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&auto=format&fit=crop&q=80",
+          "bio": "Lead Platform Architect & Super Administrator at TOLKFLOW. Building real-time multilingual communication.",
+          "status": "online",
+          "statusText": "Connecting global nodes 🌐",
+          "verified": true,
+          "role": "superadmin",
+          "interests": [
+            "Distributed Systems",
+            "Cryptography",
+            "WebRTC",
+            "Quantum AI"
+          ],
+          "followersCount": 1420,
+          "followingCount": 380,
+          "twoFactorEnabled": true,
+          "createdAt": "2025-01-15T10:00:00Z"
+        },
+        {
+          "id": "user_damour",
+          "name": "Jean Damour Ndagijimana",
+          "username": "damour_rw",
+          "email": "ndagijimanajeandamour906@gmail.com",
+          "phone": "+250 788 123 456",
+          "country": "Rwanda",
+          "preferredLanguage": "rw",
+          "avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&auto=format&fit=crop&q=80",
+          "bio": "Platform Owner & Lead AI Architect based in Kigali, Rwanda. Advocating for global multilingual equality.",
+          "status": "online",
+          "statusText": "Umunsi mwiza kuri mwese 🇷🇼",
+          "verified": true,
+          "role": "superadmin",
+          "interests": [
+            "Kinyarwanda NLP",
+            "African Tech",
+            "Fintech",
+            "Distributed Mesh"
+          ],
+          "followersCount": 4210,
+          "followingCount": 620,
+          "twoFactorEnabled": true,
+          "createdAt": "2025-02-01T12:00:00Z"
+        },
+        {
+          "id": "user_liwei",
+          "name": "Li Wei",
+          "username": "li_wei_shanghai",
+          "email": "li.wei@shanghai-ai.cn",
+          "phone": "+86 138 0013 8000",
+          "country": "China",
+          "preferredLanguage": "zh-CN",
+          "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&auto=format&fit=crop&q=80",
+          "bio": "Distributed Systems & Transformer Inference specialist based in Shanghai, China.",
+          "status": "online",
+          "statusText": "你好世界！探索多语言通信 🇨🇳",
+          "verified": true,
+          "role": "user",
+          "interests": [
+            "Edge Computing",
+            "Large Language Models",
+            "Rust",
+            "Real-time Video"
+          ],
+          "followersCount": 3890,
+          "followingCount": 512,
+          "twoFactorEnabled": true,
+          "createdAt": "2025-02-10T14:30:00Z"
+        },
+        {
+          "id": "user_amina",
+          "name": "Amina Mwangi",
+          "username": "amina_nairobi",
+          "email": "amina@silicon-savannah.ke",
+          "phone": "+254 712 345 678",
+          "country": "Kenya",
+          "preferredLanguage": "sw",
+          "avatar": "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?w=400&auto=format&fit=crop&q=80",
+          "bio": "Tech Founder & Mobile Infrastructure Pioneer from Nairobi, Kenya. Habari za leo!",
+          "status": "online",
+          "statusText": "Tujenge pamoja 🇰🇪",
+          "verified": true,
+          "role": "user",
+          "interests": [
+            "Mobile Networks",
+            "Swahili Translation",
+            "P2P Payments"
+          ],
+          "followersCount": 5120,
+          "followingCount": 680,
+          "twoFactorEnabled": true,
+          "createdAt": "2025-01-20T09:15:00Z"
+        },
+        {
+          "id": "user_elena",
+          "name": "Elena Rostova",
+          "username": "elena_cyber",
+          "email": "elena.rostova@cyberguard.net",
+          "phone": "+49 30 123456",
+          "country": "Germany",
+          "preferredLanguage": "de",
+          "avatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400&auto=format&fit=crop&q=80",
+          "bio": "Cybersecurity Architect & Zero-Knowledge Researcher in Berlin.",
+          "status": "in_flow",
+          "statusText": "Verschlüsselung aktiv 🛡️",
+          "verified": true,
+          "role": "moderator",
+          "interests": [
+            "Cryptography",
+            "E2EE",
+            "Penetration Testing",
+            "Privacy"
+          ],
+          "followersCount": 3200,
+          "followingCount": 410,
+          "twoFactorEnabled": true,
+          "createdAt": "2025-02-15T08:00:00Z"
+        }
+      ],
+      "unreadCount": 2,
+      "isPinned": true,
+      "isEncrypted": true,
+      "autoTranslate": true,
+      "createdAt": "2026-02-15T08:00:00Z",
+      "description": "International community group where messages automatically translate into each member’s language.",
+      "adminIds": [
+        "user_alex",
+        "user_damour"
+      ],
+      "lastMessage": {
+        "id": "msg_gg_4",
+        "conversationId": "conv_group_global",
+        "senderId": "user_amina",
+        "senderName": "Amina Mwangi",
+        "senderAvatar": "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?w=400&auto=format&fit=crop&q=80",
+        "text": "Welcome all international delegates! Real-time translation is active.",
+        "originalText": "Karibuni wajumbe wote wa kimataifa! Tafsiri ya wakati halisi inafanya kazi.",
+        "translatedText": "Welcome all international delegates! Real-time translation is active.",
+        "detectedLanguage": "sw",
+        "targetLanguage": "en",
+        "showOriginal": false,
+        "timestamp": "10:15 AM",
+        "status": "read",
+        "type": "text",
+        "reactions": [
+          {
+            "emoji": "🌍",
+            "count": 4,
+            "userIds": [
+              "user_alex",
+              "user_damour",
+              "user_liwei",
+              "user_amina"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "messages": {
+    "conv_damour_rw": [
+      {
+        "id": "msg_d_0",
+        "conversationId": "conv_damour_rw",
+        "senderId": "user_alex",
+        "senderName": "Alex Vance",
+        "senderAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&auto=format&fit=crop&q=80",
+        "text": "Hello Damour! How are things progressing with the Kigali translation nodes?",
+        "originalText": "Hello Damour! How are things progressing with the Kigali translation nodes?",
+        "translatedText": "Muraho Damour! Ibintu bimeze bite ku masezerano yo guhindura indimi i Kigali?",
+        "detectedLanguage": "en",
+        "targetLanguage": "rw",
+        "timestamp": "10:10 AM",
+        "status": "read",
+        "type": "text",
+        "reactions": []
+      },
+      {
+        "id": "msg_d_1",
+        "conversationId": "conv_damour_rw",
+        "senderId": "user_damour",
+        "senderName": "Jean Damour Ndagijimana",
+        "senderAvatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&auto=format&fit=crop&q=80",
+        "text": "Good morning, how are you? The Kinyarwanda translation model is running with sub-second latency!",
+        "originalText": "Mwaramutse neza, amakuru yawe? Modeli yacu yo guhindura Ikinyarwanda irakora neza cyane!",
+        "translatedText": "Good morning, how are you? The Kinyarwanda translation model is running with sub-second latency!",
+        "detectedLanguage": "rw",
+        "targetLanguage": "en",
+        "showOriginal": false,
+        "timestamp": "10:42 AM",
+        "status": "read",
+        "type": "text",
+        "reactions": [
+          {
+            "emoji": "🇷🇼",
+            "count": 1,
+            "userIds": [
+              "user_alex"
+            ]
+          }
+        ],
+        "isPinned": true
+      }
+    ],
+    "conv_liwei_cn": [
+      {
+        "id": "msg_lw_0",
+        "conversationId": "conv_liwei_cn",
+        "senderId": "user_alex",
+        "senderName": "Alex Vance",
+        "senderAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&auto=format&fit=crop&q=80",
+        "text": "Li Wei, can you confirm the speech recognition test in Mandarin?",
+        "originalText": "Li Wei, can you confirm the speech recognition test in Mandarin?",
+        "translatedText": "李伟，你能确认一下普通话语音识别测试吗？",
+        "detectedLanguage": "en",
+        "targetLanguage": "zh-CN",
+        "timestamp": "09:15 AM",
+        "status": "read",
+        "type": "text",
+        "reactions": []
+      },
+      {
+        "id": "msg_lw_1",
+        "conversationId": "conv_liwei_cn",
+        "senderId": "user_liwei",
+        "senderName": "Li Wei",
+        "senderAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&auto=format&fit=crop&q=80",
+        "text": "The edge latency benchmark in Shanghai was verified!",
+        "originalText": "上海节点的边缘延迟基准测试已经验证完成！",
+        "translatedText": "The edge latency benchmark in Shanghai was verified!",
+        "detectedLanguage": "zh-CN",
+        "targetLanguage": "en",
+        "showOriginal": false,
+        "timestamp": "09:30 AM",
+        "status": "read",
+        "type": "text",
+        "reactions": [
+          {
+            "emoji": "🚀",
+            "count": 2,
+            "userIds": [
+              "user_alex",
+              "user_liwei"
+            ]
+          }
+        ]
+      }
+    ],
+    "conv_group_global": [
+      {
+        "id": "msg_gg_1",
+        "conversationId": "conv_group_global",
+        "senderId": "user_alex",
+        "senderName": "Alex Vance",
+        "senderAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&auto=format&fit=crop&q=80",
+        "text": "Welcome everyone! In this group, every participant reads in their own native language.",
+        "originalText": "Welcome everyone! In this group, every participant reads in their own native language.",
+        "detectedLanguage": "en",
+        "timestamp": "09:00 AM",
+        "status": "read",
+        "type": "text",
+        "reactions": [
+          {
+            "emoji": "✨",
+            "count": 4,
+            "userIds": [
+              "user_damour",
+              "user_liwei",
+              "user_amina",
+              "user_elena"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "msg_gg_2",
+        "conversationId": "conv_group_global",
+        "senderId": "user_damour",
+        "senderName": "Jean Damour Ndagijimana",
+        "senderAvatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&auto=format&fit=crop&q=80",
+        "text": "Greetings from Rwanda! Technology bridges our continents.",
+        "originalText": "Muraho bose baturutse mu Rwanda! Ikoranabuhanga rihuza imigabane yacu.",
+        "translatedText": "Greetings from Rwanda! Technology bridges our continents.",
+        "detectedLanguage": "rw",
+        "targetLanguage": "en",
+        "timestamp": "09:30 AM",
+        "status": "read",
+        "type": "text",
+        "reactions": [
+          {
+            "emoji": "❤️",
+            "count": 3,
+            "userIds": [
+              "user_alex",
+              "user_liwei",
+              "user_amina"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "msg_gg_3",
+        "conversationId": "conv_group_global",
+        "senderId": "user_liwei",
+        "senderName": "Li Wei",
+        "senderAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&auto=format&fit=crop&q=80",
+        "text": "I can read Damour’s message in perfect Chinese effortlessly. Amazing work!",
+        "originalText": "我能毫不费力地用完美的中文阅读达穆尔的消息。太棒了！",
+        "translatedText": "I can read Damour’s message in perfect Chinese effortlessly. Amazing work!",
+        "detectedLanguage": "zh-CN",
+        "targetLanguage": "en",
+        "timestamp": "09:45 AM",
+        "status": "read",
+        "type": "text",
+        "reactions": [
+          {
+            "emoji": "⚡",
+            "count": 3,
+            "userIds": [
+              "user_alex",
+              "user_damour",
+              "user_amina"
+            ]
+          }
+        ]
+      }
+    ],
+    "conv_1": [
+      {
+        "id": "msg_verify_1794560294218",
+        "senderId": "user_damour",
+        "text": "Verification ping",
+        "status": "read",
+        "createdAt": "2026-11-13T08:58:14.218Z",
+        "serverTimestamp": 1794560294227
+      }
+    ]
+  }
+}
